@@ -1,0 +1,26 @@
+【消息服务日志】[被过滤消息] 过滤原因：时间戳判断; 消息主题:2006-2008, 消息ID:C0A801E2187C18B4AAC275D8930A00A9; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561295527690, bornHost=/192.168.1.226:60133, generateTimestamp=1561295527689]
+【消息服务日志】[被过滤消息] 过滤原因：时间戳判断; 消息主题:2006-2008, 消息ID:C0A801E2211C18B4AAC2787DAA3D00A9; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561339901501, bornHost=/192.168.1.226:64056, generateTimestamp=1561339901500]
+【消息服务日志】[被过滤消息] 过滤原因：时间戳判断; 消息主题:2006-2008, 消息ID:C0A801E22C1018B4AAC278A4EBF800A9; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561342474232, bornHost=/192.168.1.226:64543, generateTimestamp=1561342474231]
+【消息服务日志】[被过滤消息] 过滤原因：时间戳判断; 消息主题:2006-2008, 消息ID:C0A801E2053818B4AAC28EC0ECC600AA; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1593335808198, bornHost=/192.168.1.226:53263, generateTimestamp=1593335808197]
+【消息服务日志】[接收消息] 消息主题:2006-2009, 消息ID:C0A801E20A1418B4AAC28ED369370002; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1593337019703, bornHost=/192.168.1.226:53494, generateTimestamp=1593337019702]
+息] 消息主题:2006-2008, 详情：[generateTimestamp=1593336991927, offlineReceive=false]
+【消息服务日志】[连接服务] 服务连接成功。
+【消息服务日志】[发送消息] 发送消息主题:2006-2009, 消息ID:C0A801E20A1418B4AAC28ED369370002, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E20A1418B4AAC28ED369370002, offsetMsgId=C0A801E200002A9F000000185543272A, messageQueue=MessageQueue [topic=2006-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=8]
+【消息服务日志】[发送消息] 发送消息主题:2006-2008, 消息ID:C0A801E20A1418B4AAC28ED3693A0004, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E20A1418B4AAC28ED3693A0004, offsetMsgId=C0A801E200002A9F000000185543282E, messageQueue=MessageQueue [topic=2006-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=8]
+【消息服务日志】[接收消息] 消息主题:2006-2008, 消息ID:C0A801E20A1418B4AAC28ED3693A0004; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1593337019706, bornHost=/192.168.1.226:53494, generateTimestamp=1593337019705]
+【消息服务日志】[连接服务] 服务连接成功。
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】[订阅消息] 消息主题:2006-2009, 详情：[generateTimestamp=1593337685092, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】[连接服务] 服务连接成功。
+【消息服务日志】[订阅消息] 消息主题:2006-2008, 详情：[generateTimestamp=1593337686444, offlineReceive=false]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】[订阅消息] 消息主题:2006-2008, 详情：[generateTimestamp=1593337686760, offlineReceive=false]
+【消息服务日志】[连接服务] 服务连接成功。
+【消息服务日志】[发送消息] 发送消息主题:2006-2009, 消息ID:C0A801E223D418B4AAC28EDE38240003, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E223D418B4AAC28EDE38240003, offsetMsgId=C0A801E200002A9F0000001855433A58, messageQueue=MessageQueue [topic=2006-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=9], generateTimestamp=1593337728037
+【消息服务日志】[发送消息] 发送消息主题:2006-2008, 消息ID:C0A801E223D418B4AAC28EDE38270005, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E223D418B4AAC28EDE38270005, offsetMsgId=C0A801E200002A9F0000001855433B5C, messageQueue=MessageQueue [topic=2006-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=9], generateTimestamp=1593337728040
+【消息服务日志】[接收消息] 消息主题:2006-2009, 消息ID:C0A801E223D418B4AAC28EDE38240003; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1593337728036, bornHost=/192.168.1.226:53606, generateTimestamp=1593337728034]
+【消息服务日志】[接收消息] 消息主题:2006-2008, 消息ID:C0A801E223D418B4AAC28EDE38270005; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1593337728039, bornHost=/192.168.1.226:53606, generateTimestamp=1593337728037]

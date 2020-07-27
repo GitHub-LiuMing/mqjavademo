@@ -1,0 +1,16 @@
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】[订阅消息] 消息主题:2005-2009, 详情：[generateTimestamp=1593336893184, offlineReceive=true]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB644AEBBE; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276874, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276874]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB644DEBD2; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276877, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276877]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6450EBE6; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276880, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276880]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6453EBFA; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276883, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276883]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6457EC0E; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276887, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276887]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB645AEC22; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276890, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276890]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB645EEC40; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276894, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276894]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6461EC54; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276897, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276897]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6465EC68; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276901, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276901]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6468EC7C; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276904, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276904]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB646BEC90; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276907, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276907]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB646EECA4; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276910, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276910]
+【消息服务日志】[接收消息] 消息主题:2005-2009, 消息ID:C0A801E2531018B4AAC265DB6471ECB8; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1561027276913, bornHost=/192.168.1.226:64468, generateTimestamp=1561027276913]

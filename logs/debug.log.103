@@ -1,0 +1,53 @@
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560734025125, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560734026851, offlineReceive=false]
+调用发布，发布者信息：主题[2005-2009]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E229CC18B4AAC25463EF260002, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E229CC18B4AAC25463EF260002, offsetMsgId=C0A801E200002A9F0000000009B43097, messageQueue=MessageQueue [topic=2005-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=28]
+调用发布，发布者信息：主题[2005-2008]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E229CC18B4AAC25463EF290004, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E229CC18B4AAC25463EF290004, offsetMsgId=C0A801E200002A9F0000000009B4319B, messageQueue=MessageQueue [topic=2005-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=6]
+【消息服务日志】 [接收消息] 消息ID:C0A801E229CC18B4AAC25463EF260002; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560734235430, bornHost=/192.168.1.226:58341, generateTimestamp=1560734235428]
+【消息服务日志】 [接收消息] 消息ID:C0A801E229CC18B4AAC25463EF290004; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560734235433, bornHost=/192.168.1.226:58341, generateTimestamp=1560734235432]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560734694881, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560734696547, offlineReceive=false]
+调用发布，发布者信息：主题[2005-2009]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23EEC18B4AAC2547271420002, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23EEC18B4AAC2547271420002, offsetMsgId=C0A801E200002A9F0000000009B44730, messageQueue=MessageQueue [topic=2005-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=29]
+调用发布，发布者信息：主题[2005-2008]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23EEC18B4AAC2547271450004, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23EEC18B4AAC2547271450004, offsetMsgId=C0A801E200002A9F0000000009B44834, messageQueue=MessageQueue [topic=2005-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=7]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560737928413, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】 [接收消息] 消息ID:C0A801E23EEC18B4AAC2547271420002; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560735186242, bornHost=/192.168.1.226:58606, generateTimestamp=1560735186241]
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560737931597, offlineReceive=false]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+调用发布，发布者信息：主题[2005-2009]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23D7418B4AAC2549D3F680003, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23D7418B4AAC2549D3F680003, offsetMsgId=C0A801E200002A9F0000000009B46898, messageQueue=MessageQueue [topic=2005-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=30]
+调用发布，发布者信息：主题[2005-2008]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23D7418B4AAC2549D3F6B0005, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23D7418B4AAC2549D3F6B0005, offsetMsgId=C0A801E200002A9F0000000009B4699C, messageQueue=MessageQueue [topic=2005-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=8]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560738496829, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [接收消息] 消息ID:C0A801E23D7418B4AAC2549D3F680003; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560737991528, bornHost=/192.168.1.226:59331, generateTimestamp=1560737991526]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560738500074, offlineReceive=false]
+调用发布，发布者信息：主题[2005-2009]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23B2418B4AAC254B0D64D0003, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23B2418B4AAC254B0D64D0003, offsetMsgId=C0A801E200002A9F0000000009B48DF3, messageQueue=MessageQueue [topic=2005-2009, brokerName=broker-a-test-226, queueId=0], queueOffset=31]
+调用发布，发布者信息：主题[2005-2008]
+【消息服务日志】 [发送消息] 发送消息ID:C0A801E23B2418B4AAC254B0D6500005, 详情:SendResult [sendStatus=SEND_OK, msgId=C0A801E23B2418B4AAC254B0D6500005, offsetMsgId=C0A801E200002A9F0000000009B48EF7, messageQueue=MessageQueue [topic=2005-2008, brokerName=broker-a-test-226, queueId=0], queueOffset=9]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560739292069, offlineReceive=true]
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [接收消息] 消息ID:C0A801E23B2418B4AAC254B0D64D0003; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560739275341, bornHost=/192.168.1.226:59769, generateTimestamp=1560739275334]
+closeChannel: close the connection to remote address[192.168.1.226:10911] result: true
+closeChannel: close the connection to remote address[192.168.1.226:9876] result: true
+【消息服务日志】 [订阅消息] 详情：[generateTimestamp=1560739295302, offlineReceive=false]
+【消息服务日志】 [接收消息] 消息ID:C0A801E2588018B4AAC25E9EAF76000C; 接收消息详情：Message [brokerName=broker-a-test-226, queueId=0, bornTimestamp=1560905857910, bornHost=/192.168.1.226:61250, generateTimestamp=1560905857868]
+【消息服务日志】[连接服务] 服务连接成功。
